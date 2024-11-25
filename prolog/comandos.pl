@@ -56,6 +56,7 @@ animal(veado).
 animal(guaxinim).
 planta(alga).
 planta(grama).
+
 come(urso, peixe).
 come(lince, veado).
 come(urso, raposa).
@@ -104,3 +105,4 @@ listing(aluno/2)
 %  aluno(maria, calculo).
 %  aluno(joel, programacao).
 %  aluno(joel, estrutura).
+% corte

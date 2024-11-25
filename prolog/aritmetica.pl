@@ -3,7 +3,7 @@
  % >= Maior ou igual
  % =< Menor ou igual
  % =:= Igual
- % \= Diferente
+ % \== Diferente
  % \+ Negação
  % is Atribuição
  % = Unificação

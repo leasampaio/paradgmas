@@ -28,3 +28,4 @@ capital(X, Y)
 
 gosta(vinho,X).
 gosta(X, corona_virus)
+
